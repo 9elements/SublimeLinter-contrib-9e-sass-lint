@@ -1,6 +1,8 @@
 SublimeLinter-contrib-9e-sass-lint
 ================================
 
+![](http://i.imgur.com/mvdBJhr.png)
+
 To install:
 
 ```
